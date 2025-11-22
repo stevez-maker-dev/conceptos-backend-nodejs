@@ -1,0 +1,24 @@
+Dependencias de Node.js
+node_modules/
+package-lock.json
+Base de datos SQLite
+database/.db
+database/.sqlite
+database/*.sqlite3
+Archivos de log
+.log
+npm-debug.log
+Variables de entorno
+.env
+.env.local
+Sistema operativo
+.DS_Store
+Thumbs.db
+Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+Archivos temporales
+tmp/
+temp/
